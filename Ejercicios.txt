@@ -1,0 +1,8 @@
+Faltan
+- Backtracking
+	2021-2_Lab05: Pregunta 1
+	2022-1_Lab05: Pregunta 1
+	2023-1_Lab05: Pregunta 1 y 2
+- Programacion dinámica
+	2022-2_Lab05: Pregunta 1
+	2023-2_Lab05: Pregunta 2 y 3
